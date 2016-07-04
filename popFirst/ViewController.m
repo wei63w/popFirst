@@ -1,7 +1,7 @@
 //
 //  ViewController.m
 //  popFirst
-//
+//  弹簧效果
 //  Created by genilex3 on 16/7/4.
 //  Copyright © 2016年 wei63w. All rights reserved.
 //
@@ -51,7 +51,7 @@
 //    CGFloat centerY = arc4random() % height;
     
     CGFloat centerX = CGRectGetMaxX(self.customView.bounds);
-    CGFloat tempY = CGRectGetMaxY(self.customView.bounds);
+//    CGFloat tempY = CGRectGetMaxY(self.customView.bounds);
     
     
     CGFloat centerY = arc4random() % height;
