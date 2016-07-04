@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8E9382F734F75D06974EA83F1008146B5E99FCA2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FEFEC7B9CE98F1AC7D89485FEE214A6D117C139D" : 0,
+    "8E9382F734F75D06974EA83F1008146B5E99FCA2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3CCC09A7-0ECB-4AE5-957C-F6EACBC8B7BA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FEFEC7B9CE98F1AC7D89485FEE214A6D117C139D" : "",
+    "8E9382F734F75D06974EA83F1008146B5E99FCA2" : "popFirst\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "popFirst",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "popFirst.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wei63w\/popFirst.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8E9382F734F75D06974EA83F1008146B5E99FCA2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wei63w\/CAlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FEFEC7B9CE98F1AC7D89485FEE214A6D117C139D"
+    }
+  ]
+}
