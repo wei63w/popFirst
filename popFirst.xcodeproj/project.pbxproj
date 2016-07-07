@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		234C616A1D2E24C000DD7D6E /* CustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 234C61691D2E24C000DD7D6E /* CustomView.m */; };
 		239D8E351D2A074400284A89 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 239D8E341D2A074400284A89 /* main.m */; };
 		239D8E381D2A074400284A89 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 239D8E371D2A074400284A89 /* AppDelegate.m */; };
 		239D8E3B1D2A074400284A89 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 239D8E3A1D2A074400284A89 /* ViewController.m */; };
@@ -37,6 +38,8 @@
 
 /* Begin PBXFileReference section */
 		155BF023993E670534597078 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		234C61681D2E24C000DD7D6E /* CustomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomView.h; sourceTree = "<group>"; };
+		234C61691D2E24C000DD7D6E /* CustomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomView.m; sourceTree = "<group>"; };
 		239D8E301D2A074400284A89 /* popFirst.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = popFirst.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		239D8E341D2A074400284A89 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		239D8E361D2A074400284A89 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -117,6 +120,8 @@
 				239D8E411D2A074400284A89 /* LaunchScreen.storyboard */,
 				239D8E441D2A074400284A89 /* Info.plist */,
 				239D8E331D2A074400284A89 /* Supporting Files */,
+				234C61681D2E24C000DD7D6E /* CustomView.h */,
+				234C61691D2E24C000DD7D6E /* CustomView.m */,
 			);
 			path = popFirst;
 			sourceTree = "<group>";
@@ -346,6 +351,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				239D8E3B1D2A074400284A89 /* ViewController.m in Sources */,
+				234C616A1D2E24C000DD7D6E /* CustomView.m in Sources */,
 				239D8E381D2A074400284A89 /* AppDelegate.m in Sources */,
 				239D8E351D2A074400284A89 /* main.m in Sources */,
 			);
