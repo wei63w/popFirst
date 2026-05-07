@@ -12,6 +12,7 @@
 - `popFirst.xcworkspace`
 - `popFirstTests`
 - `popFirstUITests`
+- `README.md`
 
 ## 快速开始
 ```bash
